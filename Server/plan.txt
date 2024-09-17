@@ -1,0 +1,6 @@
+Four sections:
+
+1. friends list (unfriend)
+2. search friends + recommendation (friend request)
+3. requests
+4. profile 
